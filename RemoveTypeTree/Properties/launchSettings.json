@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RemoveTypeTree": {
+      "commandName": "Project",
+      "commandLineArgs": "I:\\TempJob\\ab-typetree\\simple-notypetree.data\r\nI:\\TempJob\\ab-typetree\\out-simple-notypetree2.data"
+    }
+  }
+}
